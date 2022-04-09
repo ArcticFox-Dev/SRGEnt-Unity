@@ -1,6 +1,6 @@
 {
   "name": "net.srgent.generator",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "unity": "2021.2",
   "displayName": "SRGEnt",
   "description": "A library providing simple api to work with ECS assisted by roslyn generator.",
