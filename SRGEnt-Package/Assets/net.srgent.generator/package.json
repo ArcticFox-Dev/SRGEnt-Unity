@@ -1,6 +1,6 @@
 {
   "name": "net.srgent.generator",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "unity": "2021.2",
   "displayName": "SRGEnt",
   "description": "A library providing simple api to work with ECS assisted by roslyn generator.",
@@ -14,10 +14,5 @@
       "description": "Various samples showing how to set up SRGEnt in your project.",
       "path": "Samples~/Examples"
     }
-  ],
-  "repository": {
-    "url": "https://github.com/ArcticFox-Dev/SRGEnt",
-    "type": "git",
-    "revision": "090276573744d11962aeed5e88717a008d54e0a3"
-  }
+  ]
 }
